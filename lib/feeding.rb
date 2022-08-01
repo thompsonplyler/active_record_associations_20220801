@@ -1,3 +1,3 @@
-class Feeding < ActiveRecord::Base # Supplies model dependence methods
- 
+class Feeding < ActiveRecord::Base
+    belongs_to :dog
 end

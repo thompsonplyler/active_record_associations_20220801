@@ -2,11 +2,11 @@
 
 ### SWBAT
 
-- [ ] Review domain modeling
-- [ ] Review foreign vs primary keys
-- [ ] Review rake and migrations
-- [ ] Explain what macros are in Ruby classes
-- [ ] Observe how to configure One to Many and Many to Many relationships using AR
+- [x] Review domain modeling
+- [x] Review foreign vs primary keys
+- [x] Review rake and migrations
+- [x] Explain what macros are in Ruby classes
+- [x] Observe how to configure One to Many and Many to Many relationships using AR
 - [ ] Observe using built in AR methods to access associated instances
 
 ### Deliverables
@@ -48,3 +48,5 @@
 
 - [Railsguides on Associations](https://guides.rubyonrails.org/association_basics.html)
   - CMD/CTRL+F for "Methods added"
+- draw.io for diagrams
+- miro.com for diagrams
